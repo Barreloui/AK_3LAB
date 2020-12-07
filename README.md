@@ -1,14 +1,9 @@
-# AK-3
+# AK-lab3
+# Лабораторна робота № 3
    
-* **-V / --Value**  
-* **-L / --List**  
-* **-h / --help**  
-* **-v / --version**  
+Program command:
+-h, --help -> get helping message
+-v, --version -> get version number
+-n, --name -> get name of program
+-l[arg1,...], --list=[arg1,...] -> get list of arg  
 
-## Example:
-   
-./AK-3 -h -vV100 --List=1,2 --help  
-Help.  
-Version.  
-Value: 100  
-List: 1,2  
